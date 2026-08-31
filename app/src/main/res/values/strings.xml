@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LunarMatcher</string>
+    <string name="btn_process">Process Images</string>
+    <string name="lbl_source">Source (OHRC/TMC/IIRS)</string>
+    <string name="lbl_ref">Reference (LRO NAC / SELENE)</string>
+    <string name="lbl_metrics">Metrics saved</string>
+    <string name="hint_url">Dataset: chmapbrowse.issdc.gov.in</string>
+</resources>

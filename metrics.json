@@ -1,0 +1,7 @@
+{
+  "rmse": 0.42,
+  "inlier_match_count": 128,
+  "total_match_points": 312,
+  "inlier_ratio": 0.41025641025641024,
+  "sub_pixel_accuracy": true
+}
